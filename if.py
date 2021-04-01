@@ -4,4 +4,3 @@ if num1 == num2:
     print('os numeros sao iguais')
 else:
     print('os numeros sao diferentes')
-    
